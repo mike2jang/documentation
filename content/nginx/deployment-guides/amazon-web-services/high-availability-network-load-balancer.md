@@ -4,7 +4,7 @@ description: Create a highly available active-active deployment of F5 NGINX Plus
 docs: DOCS-446
 doctypes:
 - task
-title: Active-Active HA for NGINX Plus on AWS Using AWS Network Load Balancer
+title: Active-Active HA for NGINX Plus on AWS Using AWS network Load Balancer
 toc: true
 weight: 100
 ---
